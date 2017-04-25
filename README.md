@@ -1,2 +1,4 @@
 # hello-world
-First Repository
+
+Hello Developers.
+Whats new in your world?
